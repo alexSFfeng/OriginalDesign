@@ -14,6 +14,7 @@ import java.io.IOException;
 
 public class OriginalDesign extends PApplet {
 
+//Feng,ShanFeng(Alex) 3 blk Mr.simon Original Assignment Raindrop
 int circleSize = 80;
 int raindropY = 50;
 boolean rain = true;
